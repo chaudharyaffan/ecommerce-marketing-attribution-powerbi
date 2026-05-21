@@ -38,3 +38,6 @@ relocating to Dubai (July 2026) for MSc Business Analytics
 at Heriot-Watt University Dubai.
 
 [LinkedIn](#) | [Portfolio](#)
+## 📊 Live Dashboard
+Power BI Service deployment coming soon.
+Preview screenshots available below.
